@@ -1,5 +1,14 @@
 [
     {
+        "version": "pending",
+        "changes": [
+            {
+                "note": "Remove rounding error being thrown when maker amount is very small",
+                "pr": 959
+            }
+        ]
+    },
+    {
         "version": "1.0.1-rc.3",
         "changes": [
             {
